@@ -1,0 +1,15 @@
+{
+  "name": "pastproductions",
+  "version": "1.0.0",
+  "description": "SCRAPPING WEB DATA TO GET PAST PRODUCTIONS DATA OF NFL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MUHAMMAD HASSAN JAVED",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0"
+  }
+}
